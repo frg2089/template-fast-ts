@@ -10,5 +10,7 @@
 # !.yarn/cache
 .pnp.*
 
+# Node Package Manager
 node_modules
+
 dist
